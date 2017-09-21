@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/proj-sub-base/proj-sub-base.iml" filepath="$PROJECT_DIR$/proj-sub-base/proj-sub-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-proj-parent.iml" filepath="$PROJECT_DIR$/spring-boot-proj-parent.iml" />
+    </modules>
+  </component>
+</project>

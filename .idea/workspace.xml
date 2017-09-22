@@ -2,36 +2,331 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a1fa62b-ac52-45f8-8468-6626c2071c9d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_1_5_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_1_2_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_8_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_3_7_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/redis/Application.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/redis/controller/ObjectRedisController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/redis/controller/StringRedisController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/redis/domain/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/redis/domain/PersonDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-base/src/main/resources/logback.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/helloworld/controller/HelloworldController.class" afterPath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/helloworld/controller/HelloworldController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/img/camera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/img/cloud-error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/img/dummy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/img/empty_list.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/img/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/img/icon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/img/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/img/logo-block.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/img/logo-single.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/img/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/img/profile-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/img/useTool.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/img/portfolio/cabin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/img/portfolio/cake.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/img/portfolio/circus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/img/portfolio/game.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/img/portfolio/safe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/img/portfolio/submarine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/img/profile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/fontawesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/fontawesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/fontawesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/fontawesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/fontawesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/simple-line-icons/fonts/Simple-Line-Icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/simple-line-icons/fonts/Simple-Line-Icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-base-template/src/main/resources/static/img/leaf.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/favorites_web_maven_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/favorites_web_maven_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_25_incubating.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_com_favorites_web_1_5_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_1_5_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_mail_1_5_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_1_1_10_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_7_10_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_session_spring_session_1_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_session_spring_session_data_redis_1_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_2_9_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bower_bootstrap_3_3_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bower_jquery_2_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bower_vue_resource_0_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_vue_1_0_24.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_webjars_locator_0_32_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_webjars_locator_core_0_32.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/favorites-web-maven.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/Application.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/WebConfiguration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/cache/CacheService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/comm/Const.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/comm/aop/LoggerAdvice.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/comm/aop/LoggerManage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/comm/config/Config.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/comm/config/MultipartConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/comm/config/RedisConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/comm/config/SessionConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/comm/exception/GlobalExceptionHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/comm/filter/SecurityFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/Collect.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/Comment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/Config.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/Entitys.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/Favorites.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/Feedback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/Follow.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/Letter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/LookRecord.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/Notice.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/Praise.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/UrlLibrary.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/UserIsFollow.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/enums/CollectType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/enums/FollowStatus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/enums/IsDelete.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/enums/LetterType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/result/ExceptionMsg.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/result/Response.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/result/ResponseData.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/view/CollectSummary.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/view/CollectView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/view/CollectorView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/view/CommentView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/view/IndexCollectorView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/view/LetterSummary.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/view/LetterView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/repository/BaseNativeSqlRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/repository/CollectRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/repository/CollectorRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/repository/CommentRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/repository/ConfigRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/repository/FavoritesRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/repository/FeedbackRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/repository/FollowRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/repository/LetterRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/repository/LookRecordRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/repository/NoticeRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/repository/PraiseRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/repository/UrlLibraryRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/repository/UserRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/repository/impl/CollectorRepositoryImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/schedule/ScheduledTasks.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/service/CollectService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/service/CollectorService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/service/ConfigService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/service/FavoritesService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/service/FeedbackService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/service/LetterService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/service/LookAroundService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/service/LookRecordService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/service/NoticeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/service/RedisService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/service/UserService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/service/impl/CollectServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/service/impl/CollectorServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/service/impl/ConfigServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/service/impl/FavoritesServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/service/impl/FeedbackServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/service/impl/LetterServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/service/impl/LookAroundServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/service/impl/LookRecordServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/service/impl/NoticeServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/service/impl/RedisServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/utils/Base64.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/utils/DateUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/utils/Des3EncryptionUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/utils/FileUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/utils/HtmlUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/utils/MD5Util.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/utils/MessageUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/utils/StringUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/utils/URLUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/BaseController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/CollectController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/CommentController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/FavoritesController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/FeedbackController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/FollowController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/HomeController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/IndexController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/LetterController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/LookRecordController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/NoticeController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/UserController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/WebJarController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/application-dev.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/css/freelancer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/css/freelancer.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/js/contact_me.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/js/freelancer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/js/freelancer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/js/jqBootstrapValidation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/jquery/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/index/vendor/jquery/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/js/collect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/js/comm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/js/layout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/js/letter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/js/lookAround.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/media/css/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/media/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/media/css/theme-i.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/media/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/animate.css/animate.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/animo.js/animo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/bootstrap/dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/bootstrap/dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/cropper/cropper.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/cropper/cropper.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/fontawesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/fontawesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/jQuery-Storage-API/jquery.storageapi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/jquery-localize-i18n/dist/jquery.localize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/jquery.easing/js/jquery.easing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/jquery.flexslider/jquery.flexslider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/jquery.form/jquery.form.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/jquery/dist/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/magnific-popup/magnific-popup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/magnific-popup/magnific-popup.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/modernizr/modernizr.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/parsleyjs/dist/parsley.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/scrollable/scrollable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/scrollable/scrollable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/scrollable/scrollable.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/scrollable/scrollable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/simple-line-icons/css/simple-line-icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/simple-line-icons/fonts/Simple-Line-Icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/toastr/toastr.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/toastr/toastr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/vendor/whirl/dist/whirl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/collect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/collect/search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/collect/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/collect/standard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/collector.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/error.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/favorites/export.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/favorites/feedback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/favorites/import.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/favorites/newfavorites.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/fragments/alert.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/fragments/collect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/fragments/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/fragments/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/fragments/left.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/fragments/sidebar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/fragments/usercontent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/layout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/lookAround.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/lookAround/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/lookAround/standard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/lookRecord/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/lookRecord/standard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/mobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/notice/atme.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/notice/commentme.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/notice/letterme.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/notice/praiseme.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/tool.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/user.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/user/forgotpassword.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/user/newpassword.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/user/uploadbackground.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/user/uploadheadportrait.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-base-template/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-base-template/proj-sub-base-template.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-base-template/src/main/java/com/spring/boot/App.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-base-template/src/main/java/com/spring/boot/freemarker/TestController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-base-template/src/main/java/com/spring/boot/thymeleaf/TestThyController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-base-template/src/main/resources/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-base-template/src/main/resources/templates/freemarker/testFtl.ftl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-base-template/src/main/resources/templates/thymeleaf/simple/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-base-template/src/test/java/com/spring/boot/AppTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/App.class" afterPath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/App.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/mail/Application.class" afterPath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/mail/Application.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/mongodb/Application.class" afterPath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/mongodb/Application.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/mybatis/Application.class" afterPath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/mybatis/Application.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/scheduler/Application.class" afterPath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/scheduler/Application.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj-sub-base/pom.xml" afterPath="$PROJECT_DIR$/proj-sub-base/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj-sub-base/proj-sub-base.iml" afterPath="$PROJECT_DIR$/proj-sub-base/proj-sub-base.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/helloworld/controller/HelloworldController.java" afterPath="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/helloworld/controller/HelloworldController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj-sub-base/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/proj-sub-base/src/main/resources/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/application.properties" afterPath="$PROJECT_DIR$/proj-sub-base/target/classes/application.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/App.java" afterPath="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/App.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/helloworld/Application.java" afterPath="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/helloworld/Application.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/mail/Application.java" afterPath="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/mail/Application.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/mongodb/Application.java" afterPath="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/mongodb/Application.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/mybatis/Application.java" afterPath="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/mybatis/Application.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/redis/Application.java" afterPath="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/redis/Application.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/scheduler/Application.java" afterPath="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/scheduler/Application.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj-sub-base/src/test/java/com/spring/boot/AppTest.java" afterPath="$PROJECT_DIR$/proj-sub-base/src/test/java/com/spring/boot/AppTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj-sub-base/src/test/java/com/spring/boot/mail/service/impl/MailServiceImplTest.java" afterPath="$PROJECT_DIR$/proj-sub-base/src/test/java/com/spring/boot/mail/service/impl/MailServiceImplTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-proj-parent.iml" afterPath="$PROJECT_DIR$/spring-boot-proj-parent.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/proj-sub-helloworld/target/" />
     <ignored path="$PROJECT_DIR$/proj-sub-base/target/" />
+    <ignored path="$PROJECT_DIR$/proj-sub-micro-service-base/target/" />
+    <ignored path="$PROJECT_DIR$/proj-sub-base-template/target/" />
+    <ignored path="$PROJECT_DIR$/favorites-web-maven/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,109 +336,105 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/resources/application.properties">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="LetterController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/LetterController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="47" column="28" lean-forward="true" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringRedisController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/redis/controller/StringRedisController.java">
+      <file leaf-file-name="WebJarController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/WebJarController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#871#872#0" expanded="true" />
-                <element signature="e#912#913#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ObjectRedisController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/redis/controller/ObjectRedisController.java">
+      <file leaf-file-name="FavoritesController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/FavoritesController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#630#631#0" expanded="true" />
-                <element signature="e#685#686#0" expanded="true" />
-                <element signature="e#785#786#0" expanded="true" />
-                <element signature="e#831#832#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloworldControllerTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/proj-sub-base/src/test/java/com/spring/boot/helloworld/controller/HelloworldControllerTest.java">
+      <file leaf-file-name="IndexController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/IndexController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding>
-                <element signature="e#1143#1144#0" expanded="true" />
-                <element signature="e#1232#1233#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/redis/domain/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-              <folding>
-                <element signature="e#501#502#0" expanded="true" />
-                <element signature="e#526#527#0" expanded="true" />
-                <element signature="e#562#563#0" expanded="true" />
-                <element signature="e#590#591#0" expanded="true" />
-                <element signature="e#621#622#0" expanded="true" />
-                <element signature="e#648#649#0" expanded="true" />
-                <element signature="e#688#689#0" expanded="true" />
-                <element signature="e#720#721#0" expanded="true" />
-                <element signature="e#751#752#0" expanded="true" />
-                <element signature="e#777#778#0" expanded="true" />
-                <element signature="e#816#817#0" expanded="true" />
-                <element signature="e#846#847#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PersonDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/redis/domain/PersonDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="26" column="15" lean-forward="false" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#598#599#0" expanded="true" />
-                <element signature="e#656#657#0" expanded="true" />
-                <element signature="e#697#698#0" expanded="true" />
-                <element signature="e#752#753#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="240">
+              <caret line="41" column="14" lean-forward="false" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/redis/Application.java">
+        <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            <state relative-caret-position="240">
+              <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#294#295#0" expanded="true" />
-                <element signature="e#355#356#0" expanded="true" />
+                <element signature="e#641#642#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application-dev.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/resources/application-dev.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-120">
+              <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommentController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/CommentController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/HomeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="20" column="49" lean-forward="false" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -169,22 +460,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/spring/boot/helloworld/Application.java" />
-        <option value="$PROJECT_DIR$/proj-sub-helloworld/pom.xml" />
-        <option value="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/helloworld/Application.java" />
-        <option value="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/helloworld/controller/PropertiseController.java" />
-        <option value="$PROJECT_DIR$/proj-sub-base/src/test/java/com/spring/boot/helloworld/ApplicationTest.java" />
-        <option value="$PROJECT_DIR$/proj-sub-base/src/test/java/com/spring/boot/helloworld/controller/HelloworldControllerTest.java" />
-        <option value="$PROJECT_DIR$/proj-sub-base/src/test/java/com/spring/boot/helloworld/controller/PropertiseControllerTest.java" />
-        <option value="$PROJECT_DIR$/proj-sub-base/pom.xml" />
-        <option value="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/mail/service/impl/MailServiceImpl.java" />
-        <option value="$PROJECT_DIR$/proj-sub-base/src/test/java/com/spring/boot/mail/service/impl/MailServiceImplTest.java" />
-        <option value="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/mybatis/entity/UserEntity.java" />
-        <option value="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/mybatis/web/UserController.java" />
-        <option value="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/mybatis/mapper/UserMapper.java" />
-        <option value="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/mybatis/Application.java" />
-        <option value="$PROJECT_DIR$/proj-sub-base/src/main/resources/mybatis/mapper/UserMapper.xml" />
-        <option value="$PROJECT_DIR$/proj-sub-base/src/test/java/com/spring/boot/mybatis/web/UserControllerTest.java" />
         <option value="$PROJECT_DIR$/proj-sub-base/src/test/java/com/spring/boot/mybatis/mapper/UserMapperTest.java" />
         <option value="$PROJECT_DIR$/proj-sub-base/src/test/java/com/spring/boot/scheduler/task/Scheduler2Task.java" />
         <option value="$PROJECT_DIR$/proj-sub-base/src/test/java/com/spring/boot/mongodb/entity/UserEntity.java" />
@@ -204,14 +479,38 @@
         <option value="$PROJECT_DIR$/log.log" />
         <option value="$PROJECT_DIR$/log/TestWeb.log.2017-09-22.log" />
         <option value="$PROJECT_DIR$/proj-sub-base/src/main/resources/logback.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/proj-sub-base/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/redis/StringRedisController.java" />
         <option value="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/redis/controller/StringRedisController.java" />
-        <option value="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/redis/Application.java" />
         <option value="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/redis/domain/Person.java" />
         <option value="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/redis/domain/PersonDao.java" />
         <option value="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/redis/controller/ObjectRedisController.java" />
+        <option value="$PROJECT_DIR$/proj-sub-base/pom.xml" />
+        <option value="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/mail/Application.java" />
+        <option value="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/mongodb/Application.java" />
+        <option value="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/mybatis/Application.java" />
+        <option value="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/redis/Application.java" />
+        <option value="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/scheduler/Application.java" />
+        <option value="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/App.java" />
+        <option value="$PROJECT_DIR$/proj-sub-micro-service-base/src/main/java/com/leonlu/code/sample/webapp/ws/App.java" />
+        <option value="$PROJECT_DIR$/proj-sub-base-template/pom.xml" />
+        <option value="$PROJECT_DIR$/proj-sub-base-template/src/main/resources/templates/freemarker/testFtl.ftl" />
+        <option value="$PROJECT_DIR$/proj-sub-base-template/src/main/java/com/spring/boot/freemarker/TestController.java" />
+        <option value="$PROJECT_DIR$/proj-sub-micro-service-base/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/proj-sub-micro-service-base/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/helloworld/Application.java" />
+        <option value="$PROJECT_DIR$/proj-sub-base-template/src/main/java/com/spring/boot/App.java" />
+        <option value="$PROJECT_DIR$/proj-sub-base-template/src/main/resources/templates.thymeleaf/index.html" />
+        <option value="$PROJECT_DIR$/proj-sub-base-template/src/main/java/com/spring/boot/thymeleaf/TestThyController.java" />
+        <option value="$PROJECT_DIR$/proj-sub-base-template/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/proj-sub-base-template/src/main/resources/templates/thymeleaf/simple/index.html" />
+        <option value="$PROJECT_DIR$/favorites-web-maven/pom.xml" />
+        <option value="$PROJECT_DIR$/favorites-web-maven/src/main/java/domain/view/CollectorView.java" />
+        <option value="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/Application.java" />
+        <option value="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/IndexController.java" />
+        <option value="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/view/CollectorView.java" />
+        <option value="$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/HomeController.java" />
       </list>
     </option>
   </component>
@@ -241,8 +540,8 @@
     <option name="jreName" value="#JAVA_HOME" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="704" />
-    <option name="width" value="907" />
+    <option name="x" value="351" />
+    <option name="width" value="1206" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -276,7 +575,9 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -292,6 +593,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -314,7 +618,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="proj-sub-base" />
+              <option name="myItemId" value="favorites-web-maven" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -328,13 +632,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="proj-sub-base" />
+              <option name="myItemId" value="favorites-web-maven" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -346,7 +654,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="proj-sub-base" />
+              <option name="myItemId" value="favorites-web-maven" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -372,7 +680,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="proj-sub-base" />
+              <option name="myItemId" value="favorites-web-maven" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -388,15 +696,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="boot" />
+              <option name="myItemId" value="favorites" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -407,6 +712,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../favorites-web" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -416,23 +722,24 @@
       <recent name="com.spring.boot.mail.service.impl" />
       <recent name="com.spring.boot.helloworld.controller" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\GitHub\spring-boot-proj-parent\proj-sub-base\src\main\resources" />
-      <recent name="D:\GitHub\spring-boot-proj-parent" />
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub\spring-boot-proj-parent\favorites-web-maven\src\main\java\com\favorites" />
+      <recent name="D:\GitHub\spring-boot-proj-parent\favorites-web-maven\src\main\java" />
+      <recent name="D:\GitHub\spring-boot-proj-parent\favorites-web-maven\src\main\resources" />
+      <recent name="D:\GitHub\spring-boot-proj-parent\proj-sub-base-template\src\main\resources\static\img" />
+      <recent name="D:\GitHub\spring-boot-proj-parent\proj-sub-base-template\src\main\resources\images" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.spring.boot.rabbit.model" />
       <recent name="com.spring.boot.helloworld.controller" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\GitHub\spring-boot-proj-parent\proj-sub-base\src\test\java\com\spring\boot\rabbit" />
-      <recent name="D:\GitHub\spring-boot-proj-parent\proj-sub-base\src\main\java\com\spring\boot" />
-      <recent name="D:\GitHub\spring-boot-proj-parent\proj-sub-base\src\test\java\com\spring\boot" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitHub\spring-boot-proj-parent\proj-sub-base-template\src\main\resources\static\images" />
       <recent name="D:\GitHub\spring-boot-proj-parent\proj-sub-base\src\main\resources" />
-      <recent name="D:\GitHub\spring-boot-proj-parent\proj-sub-base\src\main\java\com\spring\boot\mybatis" />
+      <recent name="D:\GitHub\spring-boot-proj-parent" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -447,7 +754,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Application">
+  <component name="RunManager" selected="Application.Application (2)">
     <configuration default="false" name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -464,70 +771,6 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="proj-sub-base" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="MailServiceImplTest.sendInlineResourceMail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.spring.boot.mail.service.impl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="proj-sub-base" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.spring.boot.mail.service.impl" />
-      <option name="MAIN_CLASS_NAME" value="com.spring.boot.mail.service.impl.MailServiceImplTest" />
-      <option name="METHOD_NAME" value="sendInlineResourceMail" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="MailServiceImplTest.sendTemplateMail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.spring.boot.mail.service.impl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="proj-sub-base" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.spring.boot.mail.service.impl" />
-      <option name="MAIN_CLASS_NAME" value="com.spring.boot.mail.service.impl.MailServiceImplTest" />
-      <option name="METHOD_NAME" value="sendTemplateMail" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.spring.boot.mybatis.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.boot.mybatis.Application" />
       <module name="proj-sub-base" />
       <envs />
       <method />
@@ -549,6 +792,58 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="proj-sub-base" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.leonlu.code.sample.webapp.ws.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.leonlu.code.sample.webapp.ws.App" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="proj-sub-micro-service-base" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="App (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.spring.boot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.boot.App" />
+      <module name="proj-sub-base-template" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Application (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.favorites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.favorites.Application" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="favorites-web-maven" />
       <envs />
       <method />
     </configuration>
@@ -789,6 +1084,7 @@
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -939,6 +1235,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -961,21 +1263,28 @@
       <envs />
       <method />
     </configuration>
-    <list size="6">
+    <configuration default="false" name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.boot.App" />
+      <module name="proj-sub-base" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.Application" />
       <item index="1" class="java.lang.String" itemvalue="Application.Application (1)" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.MailServiceImplTest.sendInlineResourceMail" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.MailServiceImplTest.sendTemplateMail" />
-      <item index="4" class="java.lang.String" itemvalue="Spring Boot.Application (1)" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Application" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Application" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.App" />
+      <item index="4" class="java.lang.String" itemvalue="Application.App" />
+      <item index="5" class="java.lang.String" itemvalue="Spring Boot.App (1)" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Application (2)" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Application" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Application (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Spring Boot.Application (1)" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.MailServiceImplTest.sendTemplateMail" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.MailServiceImplTest.sendInlineResourceMail" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.Application (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Spring Boot.App (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Application (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -989,8 +1298,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505985103089</updated>
-      <workItem from="1505985109588" duration="11831000" />
+      <workItem from="1505985109588" duration="17573000" />
+      <workItem from="1506065635122" duration="9115000" />
     </task>
+    <task id="LOCAL-00001" summary="add redis logger">
+      <created>1506052048261</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1506052048261</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1023,40 +1341,42 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11831000" />
+    <option name="totallyTimeSpent" value="26688000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="704" y="0" width="907" height="877" extended-state="0" />
+    <frame x="351" y="0" width="1206" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39905548" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35689354" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4037685" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38088828" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839838" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839838" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33682373" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1070,11 +1390,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="add redis logger" />
+    <option name="LAST_COMMIT_MESSAGE" value="add redis logger" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1083,472 +1404,418 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/test/java/com/spring/boot/mongodb/entity/UserEntity.java">
+    <entry file="file://$PROJECT_DIR$/proj-sub-micro-service-base/src/main/java/com/leonlu/code/sample/webapp/ws/exception/UserNotFoundException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="100">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/test/java/com/spring/boot/mongodb/dao/impl/UserDaoImpl.java">
+    <entry file="file://$PROJECT_DIR$/proj-sub-micro-service-base/src/main/java/com/leonlu/code/sample/webapp/ws/repository/UserRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="980">
-          <caret line="51" column="14" lean-forward="false" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
+        <state relative-caret-position="80">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/test/java/com/spring/boot/mongodb/dao/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/rabbit/hello/HelloSender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/rabbit/TopicRabbitConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/rabbit/topic/TopicSender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/rabbit/many/NeoReceiver2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/rabbit/many/NeoSender2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/mongodb/dao/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/mongodb/dao/impl/UserDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/mongodb/entity/UserEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/mongodb/dao/UserDaoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/mongodb/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/test/java/com/spring/boot/mongodb/dao/UserDaoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="38" column="41" lean-forward="false" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/scheduler/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/scheduler/task/SchedulerTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/rabbit/fanout/FanoutReceiverB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/rabbit/fanout/FanoutReceiverC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/scheduler/task/Scheduler2Task.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/rabbit/model/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/proj-sub-base.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/rabbit/object/ObjectSender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/rabbit/object/ObjectReceiver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/rabbit/topic/TopicReceiver.java">
+    <entry file="file://$PROJECT_DIR$/proj-sub-micro-service-base/src/main/java/com/leonlu/code/sample/webapp/ws/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <caret line="54" column="28" lean-forward="false" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/rabbit/RabbitConfig.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.1.RELEASE/spring-data-commons-1.13.1.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        <state relative-caret-position="139">
+          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/rabbit/FanoutRabbitConfig.java">
+    <entry file="file://$PROJECT_DIR$/proj-sub-micro-service-base/src/main/java/com/leonlu/code/sample/webapp/ws/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-93">
-          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        <state relative-caret-position="139">
+          <caret line="47" column="39" lean-forward="false" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/test/java/com/spring/boot/rabbit/rabbitmq/FanoutTest.java">
+    <entry file="file://$PROJECT_DIR$/proj-sub-micro-service-base/src/main/java/com/leonlu/code/sample/webapp/ws/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
-          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/test/java/com/spring/boot/rabbit/rabbitmq/HelloTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/test/java/com/spring/boot/rabbit/rabbitmq/ManyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/test/java/com/spring/boot/rabbit/rabbitmq/ObjectTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/test/java/com/spring/boot/rabbit/rabbitmq/TopicTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/test/java/com/spring/boot/rabbit/ApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/rabbit/fanout/FanoutReceiverA.java">
+    <entry file="file://$PROJECT_DIR$/proj-sub-base-template/src/main/resources/templates.readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/mybatis/mapper/UserMapper.java">
+    <entry file="file://$PROJECT_DIR$/proj-sub-base-template/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        <state relative-caret-position="168">
+          <caret line="25" column="21" lean-forward="false" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/resources/mybatis/mapper/UserMapper.xml">
+    <entry file="file://$PROJECT_DIR$/proj-sub-micro-service-base/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="7" column="78" lean-forward="false" selection-start-line="7" selection-start-column="78" selection-end-line="7" selection-end-column="78" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proj-sub-base-template/src/main/resources/templates/freemarker/testFtl.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proj-sub-micro-service-base/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
           <folding>
-            <marker date="1505989495926" expanded="true" signature="870:940" ph="SELECT FROM users" />
-            <marker date="1505989495926" expanded="true" signature="1047:1142" ph="SELECT FROM users" />
-            <marker date="1505989495926" expanded="true" signature="1250:1374" ph="INSERT INTO users" />
-            <marker date="1505989495926" expanded="true" signature="1482:1709" ph="UPDATE users... " />
-            <marker date="1505989495926" expanded="true" signature="1790:1847" ph="DELETE FROM " />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/helloworld/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
-          <caret line="13" column="38" lean-forward="false" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/helloworld/controller/HelloworldController.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.2.RELEASE/spring-boot-autoconfigure-1.5.2.RELEASE.jar!/org/springframework/boot/autoconfigure/thymeleaf/ThymeleafProperties.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        <state relative-caret-position="-156">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/log.log">
+    <entry file="file://$PROJECT_DIR$/proj-sub-base-template/src/main/java/com/spring/boot/freemarker/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="70" column="0" lean-forward="true" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+        <state relative-caret-position="100">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proj-sub-base-template/src/main/java/com/spring/boot/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proj-sub-base-template/src/main/resources/static/images/leaf.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proj-sub-base-template/src/main/java/com/spring/boot/thymeleaf/TestThyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proj-sub-base-template/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="34" column="42" lean-forward="false" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/resources/mybatis/mybatis-config.xml">
+    <entry file="file://$PROJECT_DIR$/proj-sub-base-template/src/main/resources/static.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/log/TestWeb.log.2017-09-22.log">
+    <entry file="file://$PROJECT_DIR$/proj-sub-base-template/src/main/resources/static/aa">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="264" column="0" lean-forward="false" selection-start-line="264" selection-start-column="0" selection-end-line="264" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/resources/logback.xml">
+    <entry file="file://$PROJECT_DIR$/proj-sub-base-template/src/main/resources/templates/thymeleaf/simple/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        <state relative-caret-position="100">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="70" column="36" lean-forward="false" selection-start-line="70" selection-start-column="36" selection-end-line="70" selection-end-column="36" />
+        <state relative-caret-position="340">
+          <caret line="23" column="15" lean-forward="true" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/mybatis/web/UserController.java">
+    <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/resources/static/js/comm.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-          <folding>
-            <element signature="e#932#933#0" expanded="false" />
-            <element signature="e#971#972#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="47" column="28" lean-forward="true" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/redis/controller/StringRedisController.java">
+    <entry file="file://$PROJECT_DIR$/favorites-web-maven/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="180">
+          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/resources/templates/user/newpassword.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="65" lean-forward="true" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/cache/CacheService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/repository/LookRecordRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/result/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/service/ConfigService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/utils/Base64.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/view/CommentView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/enums/LetterType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/Letter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/WebConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/Feedback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/domain/view/CollectorView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/FeedbackController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/FollowController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/LetterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/WebJarController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/FavoritesController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/CommentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="20" column="49" lean-forward="false" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/web/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="41" column="14" lean-forward="false" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/java/com/favorites/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#871#872#0" expanded="true" />
-            <element signature="e#912#913#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/redis/domain/Person.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/session/spring-session/1.3.1.RELEASE/spring-session-1.3.1.RELEASE.jar!/org/springframework/session/data/redis/config/annotation/web/http/RedisHttpSessionConfiguration.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding>
-            <element signature="e#501#502#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#590#591#0" expanded="true" />
-            <element signature="e#621#622#0" expanded="true" />
-            <element signature="e#648#649#0" expanded="true" />
-            <element signature="e#688#689#0" expanded="true" />
-            <element signature="e#720#721#0" expanded="true" />
-            <element signature="e#751#752#0" expanded="true" />
-            <element signature="e#777#778#0" expanded="true" />
-            <element signature="e#816#817#0" expanded="true" />
-            <element signature="e#846#847#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="144">
+          <caret line="134" column="28" lean-forward="false" selection-start-line="134" selection-start-column="28" selection-end-line="134" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/redis/Application.java">
+    <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/resources/application-dev.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-120">
+          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/redis/domain/PersonDao.java">
+    <entry file="file://$PROJECT_DIR$/favorites-web-maven/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="26" column="15" lean-forward="false" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
-            <element signature="e#697#698#0" expanded="true" />
-            <element signature="e#752#753#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/main/java/com/spring/boot/redis/controller/ObjectRedisController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#685#686#0" expanded="true" />
-            <element signature="e#785#786#0" expanded="true" />
-            <element signature="e#831#832#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proj-sub-base/src/test/java/com/spring/boot/helloworld/controller/HelloworldControllerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <element signature="e#1143#1144#0" expanded="true" />
-            <element signature="e#1232#1233#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="380">
+          <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1604,7 +1871,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>proj-sub-base</last-edited>
+          <last-edited>proj-sub-base-template</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

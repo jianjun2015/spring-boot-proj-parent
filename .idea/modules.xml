@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/favorites-web-maven/favorites-web-maven.iml" filepath="$PROJECT_DIR$/favorites-web-maven/favorites-web-maven.iml" />
       <module fileurl="file://$PROJECT_DIR$/proj-sub-base/proj-sub-base.iml" filepath="$PROJECT_DIR$/proj-sub-base/proj-sub-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj-sub-base-template/proj-sub-base-template.iml" filepath="$PROJECT_DIR$/proj-sub-base-template/proj-sub-base-template.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-proj-parent.iml" filepath="$PROJECT_DIR$/spring-boot-proj-parent.iml" />
     </modules>
   </component>

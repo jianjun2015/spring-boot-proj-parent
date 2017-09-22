@@ -26,7 +26,7 @@ public class MailServiceImplTest {
 
     @Test
     public void sendSimpleMail() throws Exception {
-        mailService.sendSimpleMail("wangjianjun@hdfax.com","test simple mail"," hello this is simple mail");
+        mailService.sendSimpleMail("wangjianjun@hdfax.com","test thymeleaf mail"," hello this is thymeleaf mail");
     }
 
     @Test
@@ -36,7 +36,7 @@ public class MailServiceImplTest {
                 "    <h3>hello world ! 这是一封html邮件!</h3>\n" +
                 "</body>\n" +
                 "</html>";
-        mailService.sendHtmlMail("wangjianjun@hdfax.com","test simple mail",content);
+        mailService.sendHtmlMail("wangjianjun@hdfax.com","test thymeleaf mail",content);
     }
 
     @Test

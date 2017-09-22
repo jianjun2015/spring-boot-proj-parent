@@ -6,12 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="favorites-web-maven" />
         <module name="proj-sub-base" />
+        <module name="proj-sub-base-template" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
+      <module name="favorites-web-maven" target="1.8" />
       <module name="proj-sub-base" target="1.8" />
+      <module name="proj-sub-base-template" target="1.8" />
       <module name="proj-sub-helloworld" target="1.8" />
+      <module name="proj-sub-micro-service-base" target="1.8" />
       <module name="spring-boot-proj-parent" target="1.8" />
     </bytecodeTargetLevel>
   </component>

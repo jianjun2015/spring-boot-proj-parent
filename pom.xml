@@ -7,6 +7,8 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>proj-sub-base</module>
+      <module>proj-sub-base-template</module>
+      <module>favorites-com.favorites.web-maven</module>
   </modules>
   <packaging>pom</packaging>
 
@@ -37,12 +39,13 @@
     </dependency>
     <dependency>
       <groupId>org.springframework.boot</groupId>
-      <artifactId>spring-boot-starter-web</artifactId>
+      <artifactId>spring-boot-starter-com.favorites.web</artifactId>
       <version>${spring.boot.version}</version>
     </dependency>
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-devtools</artifactId>
+      <optional>true</optional>
       <version>${spring.boot.version}</version>
     </dependency>
     <dependency>
@@ -124,6 +127,14 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-maven-plugin</artifactId>
         <version>1.4.0.RELEASE</version>
+        <!--spring  热部署-->
+        <!--<dependencies>-->
+          <!--<dependency>-->
+            <!--<groupId>org.springframework</groupId>-->
+            <!--<artifactId>springloaded</artifactId>-->
+            <!--<version>1.2.8.RELEASE</version>-->
+          <!--</dependency>-->
+        <!--</dependencies>-->
         <configuration>
           <fork>true</fork>
         </configuration>

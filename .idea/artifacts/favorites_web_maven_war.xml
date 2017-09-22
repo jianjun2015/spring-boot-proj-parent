@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="favorites-web-maven:war">
+    <output-path>$PROJECT_DIR$/favorites-web-maven/target</output-path>
+    <root id="archive" name="favorites-com.favorites.web-maven.war">
+      <element id="artifact" artifact-name="favorites-web-maven:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/favorites-web-maven" />
+    <file type="web" url="file://$PROJECT_DIR$/proj-sub-1-first-application" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">

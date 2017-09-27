@@ -3,6 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/favorites-web-maven/favorites-web-maven.iml" filepath="$PROJECT_DIR$/favorites-web-maven/favorites-web-maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj-sub-1-first-application/proj-sub-1-first-application.iml" filepath="$PROJECT_DIR$/proj-sub-1-first-application/proj-sub-1-first-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj-sub-2-springboot-config/proj-sub-2-springboot-config.iml" filepath="$PROJECT_DIR$/proj-sub-2-springboot-config/proj-sub-2-springboot-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj-sub-3-springboot-jdbc/proj-sub-3-springboot-jdbc.iml" filepath="$PROJECT_DIR$/proj-sub-3-springboot-jdbc/proj-sub-3-springboot-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj-sub-4-springboot-jpa/proj-sub-4-springboot-jpa.iml" filepath="$PROJECT_DIR$/proj-sub-4-springboot-jpa/proj-sub-4-springboot-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj-sub-5-springboot-bestsql/proj-sub-5-springboot-bestsql.iml" filepath="$PROJECT_DIR$/proj-sub-5-springboot-bestsql/proj-sub-5-springboot-bestsql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj-sub-6-springboot-mybatis/proj-sub-6-springboot-mybatis.iml" filepath="$PROJECT_DIR$/proj-sub-6-springboot-mybatis/proj-sub-6-springboot-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/proj-sub-base/proj-sub-base.iml" filepath="$PROJECT_DIR$/proj-sub-base/proj-sub-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/proj-sub-base-template/proj-sub-base-template.iml" filepath="$PROJECT_DIR$/proj-sub-base-template/proj-sub-base-template.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-proj-parent.iml" filepath="$PROJECT_DIR$/spring-boot-proj-parent.iml" />

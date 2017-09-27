@@ -6,9 +6,15 @@
   <artifactId>spring-boot-proj-parent</artifactId>
   <version>1.0-SNAPSHOT</version>
   <modules>
-    <module>proj-sub-base</module>
+      <module>proj-sub-base</module>
       <module>proj-sub-base-template</module>
-      <module>favorites-com.favorites.web-maven</module>
+      <module>favorites-web-maven</module>
+    <module>proj-sub-1-first-application</module>
+    <module>proj-sub-2-springboot-config</module>
+      <module>proj-sub-3-springboot-jdbc</module>
+    <module>proj-sub-4-springboot-jpa</module>
+      <module>proj-sub-5-springboot-bestsql</module>
+      <module>proj-sub-6-springboot-mybatis</module>
   </modules>
   <packaging>pom</packaging>
 
@@ -39,7 +45,7 @@
     </dependency>
     <dependency>
       <groupId>org.springframework.boot</groupId>
-      <artifactId>spring-boot-starter-com.favorites.web</artifactId>
+      <artifactId>spring-boot-starter-web</artifactId>
       <version>${spring.boot.version}</version>
     </dependency>
     <dependency>

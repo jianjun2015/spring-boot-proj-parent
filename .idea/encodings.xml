@@ -3,8 +3,13 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/favorites-web-maven" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proj-sub-1-first-application" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proj-sub-2-springboot-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proj-sub-3-springboot-jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proj-sub-4-springboot-jpa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proj-sub-5-springboot-bestsql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proj-sub-6-springboot-mybatis" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/proj-sub-base" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/proj-sub-base-template" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/proj-sub-micro-service-base" charset="UTF-8" />
   </component>
 </project>

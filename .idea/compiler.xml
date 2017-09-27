@@ -7,12 +7,24 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="favorites-web-maven" />
+        <module name="proj-sub-1-first-application" />
+        <module name="proj-sub-2-springboot-config" />
+        <module name="proj-sub-3-springboot-jdbc" />
+        <module name="proj-sub-4-springboot-jpa" />
+        <module name="proj-sub-5-springboot-bestsql" />
+        <module name="proj-sub-6-springboot-mybatis" />
         <module name="proj-sub-base" />
         <module name="proj-sub-base-template" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="favorites-web-maven" target="1.8" />
+      <module name="proj-sub-1-first-application" target="1.8" />
+      <module name="proj-sub-2-springboot-config" target="1.8" />
+      <module name="proj-sub-3-springboot-jdbc" target="1.8" />
+      <module name="proj-sub-4-springboot-jpa" target="1.8" />
+      <module name="proj-sub-5-springboot-bestsql" target="1.8" />
+      <module name="proj-sub-6-springboot-mybatis" target="1.8" />
       <module name="proj-sub-base" target="1.8" />
       <module name="proj-sub-base-template" target="1.8" />
       <module name="proj-sub-helloworld" target="1.8" />

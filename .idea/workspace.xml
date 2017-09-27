@@ -2,123 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a1fa62b-ac52-45f8-8468-6626c2071c9d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/proj_sub_1_first_application_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/proj_sub_1_first_application_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_29.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibeetl_beetl_2_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibeetl_beetlsql_2_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_abego_treelayout_org_abego_treelayout_core_1_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr4_annotations_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-1-first-application/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-1-first-application/proj-sub-1-first-application.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-1-first-application/src/main/java/com/springboot/learn/Application.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-1-first-application/src/main/java/com/springboot/learn/web/HelloController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-1-first-application/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-1-first-application/src/test/java/com/springboot/learn/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-1-first-application/src/test/java/com/springboot/learn/web/HelloControllerT.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-1-first-application/src/test/java/com/springboot/learn/web/HelloControllerTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-2-springboot-config/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-2-springboot-config/proj-sub-2-springboot-config.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-2-springboot-config/src/main/java/com/spring/boot/controller/ConfigWithBean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-2-springboot-config/src/main/java/com/spring/boot/controller/ControllerWithProperties.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-2-springboot-config/src/main/java/com/spring/boot/controller/MyConfigCtro.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-2-springboot-config/src/main/java/com/spring/boot/entity/InfoUser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-2-springboot-config/src/main/java/com/spring/boot/entity/UserBean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-2-springboot-config/src/main/resources/application-dev.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-2-springboot-config/src/main/resources/application-prod.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-2-springboot-config/src/main/resources/application-test.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-2-springboot-config/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-2-springboot-config/src/main/resources/my.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-3-springboot-jdbc/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-3-springboot-jdbc/proj-sub-3-springboot-jdbc.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-3-springboot-jdbc/src/main/java/com/spring/boot/controller/AccountController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-3-springboot-jdbc/src/main/java/com/spring/boot/dao/IAccountDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-3-springboot-jdbc/src/main/java/com/spring/boot/dao/impl/AccountDaoImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-3-springboot-jdbc/src/main/java/com/spring/boot/entity/Account.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-3-springboot-jdbc/src/main/java/com/spring/boot/service/IAccountService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-3-springboot-jdbc/src/main/java/com/spring/boot/service/impl/AccountServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-3-springboot-jdbc/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-3-springboot-jdbc/src/main/resources/sql/init.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-4-springboot-jpa/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-4-springboot-jpa/proj-sub-4-springboot-jpa.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-4-springboot-jpa/src/main/java/com/spring/boot/controller/AccountController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-4-springboot-jpa/src/main/java/com/spring/boot/dao/AccountDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-4-springboot-jpa/src/main/java/com/spring/boot/entity/AccountInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-4-springboot-jpa/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-5-springboot-bestsql/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-5-springboot-bestsql/proj-sub-5-springboot-bestsql.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-5-springboot-bestsql/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-5-springboot-bestsql/src/main/java/com/spring/boot/controller/AccountController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-5-springboot-bestsql/src/main/java/com/spring/boot/dao/AccountDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-5-springboot-bestsql/src/main/java/com/spring/boot/entity/Account.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-5-springboot-bestsql/src/main/resources/META_INF/spring-devtools.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-5-springboot-bestsql/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-5-springboot-bestsql/src/main/resources/sql/account.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-5-springboot-bestsql/src/main/resources/templates/index.btl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-6-springboot-mybatis/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-6-springboot-mybatis/proj-sub-6-springboot-mybatis.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-6-springboot-mybatis/src/main/java/com/spring/boot/controller/AccountController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-6-springboot-mybatis/src/main/java/com/spring/boot/dao/AccountMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-6-springboot-mybatis/src/main/java/com/spring/boot/entity/Account.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-6-springboot-mybatis/src/main/java/com/spring/boot/service/IAccountService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-6-springboot-mybatis/src/main/java/com/spring/boot/service/impl/AccountServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-6-springboot-mybatis/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-6-springboot-mybatis/src/main/resources/sql/init.sql" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_com_favorites_web_1_5_2_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/App.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/helloworld/Application.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/helloworld/controller/HelloworldController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/helloworld/controller/PropertiseController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/mail/Application.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/mail/service/MailService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/mail/service/impl/MailServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/mongodb/Application.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/mongodb/dao/UserDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/mongodb/dao/impl/UserDaoImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/mongodb/entity/UserEntity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/mybatis/Application.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/mybatis/entity/UserEntity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/mybatis/enums/UserSexEnum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/mybatis/mapper/UserMapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/mybatis/web/UserController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/rabbit/FanoutRabbitConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/rabbit/RabbitConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/rabbit/TopicRabbitConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/rabbit/fanout/FanoutReceiverA.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/rabbit/fanout/FanoutReceiverB.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/rabbit/fanout/FanoutReceiverC.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/rabbit/fanout/FanoutSender.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/rabbit/hello/HelloReceiver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/rabbit/hello/HelloSender.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/rabbit/many/NeoReceiver1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/rabbit/many/NeoReceiver2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/rabbit/many/NeoSender.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/rabbit/many/NeoSender2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/rabbit/model/User.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/rabbit/object/ObjectReceiver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/rabbit/object/ObjectSender.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/rabbit/topic/TopicReceiver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/rabbit/topic/TopicReceiver2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/rabbit/topic/TopicSender.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/scheduler/Application.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/scheduler/task/Scheduler2Task.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/proj-sub-base/target/classes/com/spring/boot/scheduler/task/SchedulerTask.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/favorites_web_maven_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/favorites_web_maven_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log/TestWeb.log.2017-09-22.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-1-first-application/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-1-first-application/src/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-2-springboot-config/src/main/java/com/spring/boot/App.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-2-springboot-config/src/test/java/com/spring/boot/AppTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-3-springboot-jdbc/src/main/java/com/spring/boot/App.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-3-springboot-jdbc/src/test/java/com/spring/boot/AppTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-4-springboot-jpa/src/main/java/com/spring/boot/App.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-4-springboot-jpa/src/test/java/com/spring/boot/AppTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-5-springboot-bestsql/src/main/java/com/spring/boot/App.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-5-springboot-bestsql/src/test/java/com/spring/boot/AppTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-6-springboot-mybatis/src/main/java/com/spring/boot/App.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proj-sub-6-springboot-mybatis/src/test/java/com/spring/boot/AppTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/favorites-web-maven/favorites-web-maven.iml" afterPath="$PROJECT_DIR$/favorites-web-maven/favorites-web-maven.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj-sub-base-template/proj-sub-base-template.iml" afterPath="$PROJECT_DIR$/proj-sub-base-template/proj-sub-base-template.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proj-sub-base/proj-sub-base.iml" afterPath="$PROJECT_DIR$/proj-sub-base/proj-sub-base.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-boot-proj-parent.iml" afterPath="$PROJECT_DIR$/spring-boot-proj-parent.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -944,7 +841,7 @@
       <updated>1505985103089</updated>
       <workItem from="1505985109588" duration="17573000" />
       <workItem from="1506065635122" duration="24999000" />
-      <workItem from="1506495133781" duration="12884000" />
+      <workItem from="1506495133781" duration="13025000" />
     </task>
     <task id="LOCAL-00001" summary="add redis logger">
       <created>1506052048261</created>
@@ -960,7 +857,14 @@
       <option name="project" value="LOCAL" />
       <updated>1506076287906</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="spring boot 学习">
+      <created>1506508336367</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1506508336367</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -996,7 +900,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55456000" />
+    <option name="totallyTimeSpent" value="55597000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="599" y="0" width="981" height="877" extended-state="0" />
@@ -1080,7 +984,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add redis logger" />
     <MESSAGE value="云收藏 maven版" />
-    <option name="LAST_COMMIT_MESSAGE" value="云收藏 maven版" />
+    <MESSAGE value="spring boot 学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring boot 学习" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
